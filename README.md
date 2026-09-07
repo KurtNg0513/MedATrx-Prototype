@@ -1,5 +1,6 @@
 # MedATrx: Automated Networked Medicine Dispenser
 
+> **Note:** This repository serves as a technical showcase of the system architecture and hardware-software integration. Proprietary application logic and source code are strictly confidential.
 
 ## 📌 System Overview
 MedATrx is a hardware-software prototype designed specifically to assist individuals with ADHD by addressing executive dysfunction and ensuring consistent medication routines. Built within a Raspberry Pi environment, the system bridges physical hardware controls with networked software monitoring to ensure operational stability, secure data sharing, and environmental tracking.
